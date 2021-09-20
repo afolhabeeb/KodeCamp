@@ -10,7 +10,7 @@ body,html{
 }
 #land{
 
-    background-image: url(../house_repair/hero-bg.jpg);
+    background-image: url(//afolhabeeb.github.io/KodeCamp/hero-bg.jpg);
     background-repeat: no-repeat;
     overflow: visible;
     /* width: 100%;
@@ -159,7 +159,7 @@ body,html{
 }
 .qua-img{
     width: 40%;
-    background-image: url(../house_repair/billionphotos1079319min.png);
+    background-image: url(//afolhabeeb.github.io/KodeCamp/billionphotos1079319min.png);
     background-size: 400px;
     object-fit: cover;
     display: block;
